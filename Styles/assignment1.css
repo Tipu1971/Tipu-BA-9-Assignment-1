@@ -1,0 +1,5 @@
+/* nav related style */
+h5 {color: #FFF;text-align: center;font-family: Merriweather;font-size: 36px;font-style: normal;font-weight: 400;line-height: normal;padding: 50px 50px 59px 50px;}
+h3  {color: #FFF;text-align: center;font-family: Merriweather;font-size: 100px;font-style: normal;font-weight: 900;line-height: 95px;padding: 50px 50px 59px 50px;}
+/*header related style */
+.header{background-image: url('../resources/Banner\ Image.png');background-repeat: no-repeat;background-position: center;}
