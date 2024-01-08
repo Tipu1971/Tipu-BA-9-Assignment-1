@@ -1,11 +1,19 @@
 /* nav related style */
-h5 {color: #FFF;text-align: center;font-family: Merriweather;font-size: 36px;font-style: normal;padding: 50px 50px 59px 50px;}
-h3  {color: #FFF;text-align: center;font-family: Merriweather;font-size: 100px;font-style: normal;padding: 50px 50px 59px 50px;}
+.banner-greeting {color: skyblue;text-align: center;font-family: Merriweather;font-size: 36px;font-style: normal;margin-bottom: 65px;}
+.banner-title  {color: skyblue;text-align: center;font-family: Merriweather;font-size: 75px;font-style: normal;line-height: 90px;}
 /*header related style */
-.header{background-image: url('../resources/Banner\ Image.png');background-repeat: no-repeat;background-position: center;}
-/*span related styles*/
-h2  {text-align: center;color: red;font-size: 90px;font-family: inter;font-style: normal;}
-p {color: red;text-align: center;font-size: small;font-family: Inter;font-style: normal;}
-h4 {color: #070211;text-align: center;font-size: 50px;font-family: Inter;font-style: normal;}
-style {background-color: beige;}
-style {padding: 1600px  7300px;}
+.header{background-image: url('../resources/Banner\ Image.png');background-repeat: no-repeat;background-position: center;background-size: contain;padding: 55px 40px 70px 38px;}
+/*div 1 related style*/
+.New-Year-Discount  {text-align: center;color: red;font-size: 90px;font-family: inter;font-style: normal;padding: auto;}
+.Newe-Year-Deal {color: red;text-align: center;font-family: Inter;font-style: normal;padding: auto;}
+.New-Year-offer {color: #070211;text-align: center;font-size: 50px;font-family: Inter;font-style: normal;padding: auto;}
+/*div 2 related style*/
+.Image {padding: 50px 100px 70px 500px;}
+/*div 3 related style*/
+.midnight-party {color: whitesmoke;font-family: Merriweather;font-size: 50px;font-style: normal;line-height: 95px;margin-left: 240px;}
+.party-wording {color: whitesmoke;font-size: 28px;font-family: Inter;font-style: normal;margin-left: 240px;}
+.party-time {color: whitesmoke;font-size: 35px;font-style: normal;font-weight: bold;margin-left: 240px;}
+.body-cover {background-image: url(../resources/Vectorrr.png);background-repeat: no-repeat;background-size: contain;background-position: center;text-align: justify;padding: 55px 40px 70px 38px;}
+/*div 4 related style*/
+.Party-area {text-align: center;background-color: bisque;font-size: 36px;font-style: normal;font-family: Inter;margin-top: 20px;}
+
