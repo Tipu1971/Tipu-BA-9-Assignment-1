@@ -26,3 +26,13 @@
 .fual {font-size:15px;font-style: normal;font-family: Inter;text-align: center;}
 .disc {text-align: center;font-size: 35px;font-style: normal;font-family: Merriweather;}
 .HOLIDAY {color: red;}
+.flash-sale {display: flex;justify-content: center;background-image: url(../resources/Rectangle\ 2.png);background-repeat: no-repeat;background-size: contain;background-position: bottom;}
+.gift {color: red;font-size: 30px;font-family: Inter;margin-left: 300px;}
+.port {color: black;font-size: 42px;font-family: Inter;margin-left: 300px;}
+.section-c {display: flex;justify-content: center;}
+.s-contain {display: flex;justify-content: center;}
+.footer {background-color: black;padding: 120px;}
+.addr {display: flex;font-family: Inter;color: white;justify-content: space-between;}
+.social-contract {display: flex;justify-content: center;padding: 2px;}
+.over {display: flex;font-family: Inter;color: white;justify-content: space-between;}
+
