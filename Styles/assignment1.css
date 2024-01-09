@@ -13,7 +13,16 @@
 .midnight-party {color: whitesmoke;font-family: Merriweather;font-size: 50px;font-style: normal;line-height: 95px;margin-left: 240px;}
 .party-wording {color: whitesmoke;font-size: 28px;font-family: Inter;font-style: normal;margin-left: 240px;}
 .party-time {color: whitesmoke;font-size: 35px;font-style: normal;font-weight: bold;margin-left: 240px;}
-.body-cover {background-image: url(../resources/Vectorrr.png);background-repeat: no-repeat;background-size: contain;background-position: center;text-align: justify;padding: 55px 40px 70px 38px;}
+.profile-picture {width: fit-content;}
+.party {display: flex;background-image: url(../resources/Vectorrr.png);background-repeat: no-repeat;background-size: contain;background-position: center;text-align: justify;padding: 55px 40px 70px 38px;}
 /*div 4 related style*/
-.Party-area {text-align: center;background-color: bisque;font-size: 36px;font-style: normal;font-family: Inter;margin-top: 20px;}
-
+.Party-area {text-align: center;background-color: bisque;font-size: 30px;font-style: normal;font-family: Inter;margin-top: 20px;}
+.color-party {color: red;}
+.btn-primary {color: whitesmoke;background-color: red;font-size: small;font-style: normal;align-items: center;border: 0;border-radius: 5px;padding: 5px 12px}
+.new-offer {color: red;font-size: 20px;font-family: Inter;text-align: center;}
+.str {color: black;font-size: 45px;font-style: normal;font-family: Merriweather;}
+.season {color: red;font-size: 30px;font-family: Inter;text-align: center;}
+.Bonus {display: flex;background-color: azure;margin: 25px 300px;justify-content: space-between;}
+.fual {font-size:15px;font-style: normal;font-family: Inter;text-align: center;}
+.disc {text-align: center;font-size: 35px;font-style: normal;font-family: Merriweather;}
+.HOLIDAY {color: red;}
